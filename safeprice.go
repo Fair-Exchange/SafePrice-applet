@@ -149,5 +149,3 @@ func onReady() {
 		systray.Quit()
 	}()
 }
-
-func onExit() {}
